@@ -3,7 +3,7 @@
 > A deep dive on a free idea from **[freeideasdotcom.com](https://freeideasdotcom.com)**.
 > Original idea: https://freeideasdotcom.com/?idea=ID  ← replace `ID` with the idea's number
 
-Everything here is dedicated to the public domain ([CC0](LICENSE)). Anyone can use it, change it, build it, for anything, forever. Ideas flow free, so catch one and ride it to reality.
+Everything here is dedicated to the public domain ([CC0](LICENSE)). Anyone can use it, change it, build it, for anything, forever. Ideas flow free—catch one that speaks to you and ride it to reality
 
 ---
 
